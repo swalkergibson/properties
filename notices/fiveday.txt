@@ -1,0 +1,27 @@
+*******************************************************************************
+*********                        5-DAY NOTICE                        **********
+*******************************************************************************
+
+NON-PAYMENT OF RENT       TERMINATION OF TENANCY          DEMAND FOR POSSESSION
+
+To:
+
+Address:
+
+Date:
+
+Your rent from [$DATE] to [$DATE] is past due and unpaid. Pursuant to
+ARS 33-1368B, you are hereby notified that if you fail to pay your rent in the
+amount of [$AMOUNT] in full on or before [$FINALDATE] your tenancy will be
+terminated. If the rent is paid in full then your rental agreement will remain
+in effect. If the rent is not paid in full on or before [$FINALDATE], then
+pursuant to ARS 12-1173, I demand that you vacate the premises and surrender
+possession to me on or before [$FINALDATE]. If you fail to comply with the
+above, I will institute action for forcible detainer.
+
+Phone: [$PHONE]
+
+Owner
+
+
+_____________________________
